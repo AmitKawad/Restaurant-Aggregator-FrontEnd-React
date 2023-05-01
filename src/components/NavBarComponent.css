@@ -1,0 +1,27 @@
+nav {
+    background-color: #f8f5f5;
+    height: 50px;
+    background-image: url("./../images/abstract-surface-textures-white-concrete-stone-wall.jpg");
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    display: block;
+    color: #0a0a0a;
+    text-decoration: none;
+    padding: 15px;
+  }
+  
+  nav a:hover {
+    background-color: #aa7878;
+  }

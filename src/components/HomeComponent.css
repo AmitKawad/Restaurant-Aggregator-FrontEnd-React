@@ -1,0 +1,57 @@
+
+.login-form-1{
+    margin-top: -8%;
+    padding: 20%;
+    size: 500px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-1 h1{
+    text-align: center;
+}
+
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    margin-top: 2%;
+    border: none;
+    cursor: pointer;
+    
+}
+.login-form-1 .btnSubmit{
+    font-weight: 900;
+    color: #fff;
+    background-color: #0062cc;
+}
+
+.login-form-1 .ForgetPwd{
+    color: #ffffff;
+    font-weight: 900;
+    text-decoration: none;
+}
+.form-control{
+    height: 25px;
+    width: 300px;
+}
+body #HomeComponentBody{
+    /* The image used */
+    background-image: url("./../images/blog-3.jpg");
+  
+    /* Control the height of the image */
+    min-height: 380px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+ .Title{
+   font-size: xx-large;
+   color: #ffffff;
+   margin-top: 0%;
+   font-weight: 900;
+
+  }
